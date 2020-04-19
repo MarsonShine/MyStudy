@@ -11,3 +11,7 @@ asp.net refference code url: http://aspnetwebstack.codeplex.com/
 
 asp.net core refference code url: https://source.dot.net/
 
+理解 [Type.GenericTypeArguments](https://docs.microsoft.com/zh-cn/dotnet/api/system.type.generictypearguments?redirectedfrom=MSDN&view=netframework-4.7.2) 和 [Type.GetGenericTypeDefinition](https://docs.microsoft.com/zh-cn/dotnet/api/system.type.getgenerictypedefinition?redirectedfrom=MSDN&view=netframework-4.7.2)
+
+
+
